@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYFlowerAPI", "PYFlowerAPI\PYFlowerAPI.csproj", "{0A1D1D84-5F41-4A94-8C97-4ADE9F0E3DF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A1D1D84-5F41-4A94-8C97-4ADE9F0E3DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1D1D84-5F41-4A94-8C97-4ADE9F0E3DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1D1D84-5F41-4A94-8C97-4ADE9F0E3DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1D1D84-5F41-4A94-8C97-4ADE9F0E3DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48AF586D-831A-4AB0-AFE5-7F1660FAC00D}
+	EndGlobalSection
+EndGlobal
